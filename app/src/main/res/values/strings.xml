@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Anila_1202150280_Modul3</string>
+    <string name="title_placeholder">Title</string>
+    <string name="news_label">News</string>
+    <string name="aqua_info_placeholder">Here is some news</string>
+    <string name="ades_image">Ades Image</string>
+    <string name="filler_text"></string>
+
+    <string-array name="aqua_titles">
+        <item>ADES</item>
+        <item>AMIDIS</item>
+        <item>AQUA</item>
+        <item>CLEO</item>
+        <item>CLUB</item>
+        <item>EQUIL</item>
+        <item>EVIAN</item>
+        <item>LEMINERALE</item>
+        <item>NESTLE</item>
+        <item>PRISTINE</item>
+        <item>VIT</item>
+    </string-array>
+
+    <string-array name="aqua_info">
+        <item>About ADES</item>
+        <item>About AMIDIS</item>
+        <item>About AQUA</item>
+        <item>About CLEO</item>
+        <item>About CLUB</item>
+        <item>About EQUIL</item>
+        <item>About EVIAN</item>
+        <item>About LEMINERALE</item>
+        <item>About NESTLE</item>
+        <item>About PRISTINE</item>
+        <item>About VIT</item>
+    </string-array>
+
+    <array name="aqua_images">
+        <item>@drawable/ades</item>
+        <item>@drawable/amidis</item>
+        <item>@drawable/aqua</item>
+        <item>@drawable/cleo</item>
+        <item>@drawable/club</item>
+        <item>@drawable/equil</item>
+        <item>@drawable/evian</item>
+        <item>@drawable/leminerale</item>
+        <item>@drawable/nestle</item>
+        <item>@drawable/pristine</item>
+        <item>@drawable/vit</item>
+    </array>
+    <string-array name="detail_titles">
+        <item> AdeS is a brand of drinking water available in Indonesia.
+        The mineral water is also known as I-Lohas in Japan. </item>
+        <item>AMIDIS adalah produk Air Minum Dalam Kemasan (AMDK) yang sudah diproduksi sejak tahun 1997 dan
+            merupakan air minum distilasi pertama di Indonesia
+        </item>
+        <item>AQUA Group menerapkan nilai-nilai Danone Group, yang menggambarkan visi dan etika binis kami yang unik.
+            Sejarah nilai-nilai ini mencerminkan komitmen perusahaan kami terhadap komunikasi yang terbuka dan kerja bersama.
+          </item>
+        <item>Air murni terasa lebih ringan (light), tidak berasa bila diminum dan tubuh akan menjadi segar sesudah meminumnya.
+            Air murni tidak mengandung bakteri, virus, dan mineral anorganik. </item>
+        <item>Club is the brand name for a series of Irish carbonated soft drinks produced in Ireland by
+            Britvic Ireland and previously by Cantrell Cochrane (CC). </item>
+        <item>EQUIL  was first bottled in 1998 at the source, Villa D’Equilibrium, and launched to the market which was
+            then predominantly monopolized by few European brands.</item>
+        <item>Evian is a brand of mineral water coming from several sources near Évian-les-Bains, on the south shore of Lake Geneva.</item>
+        <item>Le Minerale, pure and preserved mineral water sourced from the mountain and packed directly on site using the latest
+            technology (mineral protection system) to bring you a healthy refreshment for optimum body function.</item>
+        <item>Nestlé is the world’s largest food and beverage company. We have more than 2000 brands ranging from global icons to local favourites,
+            and we are present in 189 countries around the world.</item>
+        <item>Water as the most important part and can not be detached from the life of living creatures in this world.
+           </item>
+        <item>stay hydrated while you enhance your water drinking experience with the vitamins and
+            electrolytes in the many flavors of vitaminwater®. try a bottle today!</item>
+    </string-array>
+</resources>
